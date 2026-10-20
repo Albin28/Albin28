@@ -4,8 +4,28 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Albin+Joseph+%F0%9F%91%8B;Full-Stack+Developer+%26+DevOps+Enthusiast;TypeScript+%7C+JavaScript+%7C+Python+%7C+C;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Albin+Joseph+%F0%9F%91%8B;Full-Stack+Developer+%26+DevOps+Enthusiast;TypeScript+%7C+JavaScript+%7C+Python+%7C+C;Let's+connect+and+build+together!" alt="Typing SVG" />
   </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/albin-joseph-300389292">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:albinjoseph2814@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/Albin28?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Albin28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Albin's Trophies" />
 </p>
 
 ---
@@ -16,18 +36,18 @@
 name: Albin Joseph
 role: Software Developer & DevOps Enthusiast
 location: Kerala, India
-passions: [Full-Stack Development, Cloud & DevOps, System Design]
-current_focus: Building scalable web applications and mastering CI/CD pipelines
+passions: [Full-Stack Development, Cloud Architecture, CI/CD Automation]
+education: Computer Science @ Amal Jyothi College of Engineering
+contact: albinjoseph2814@gmail.com
 ```
 
-- 💡 **Specializing in:** Full-stack web applications, backend services, and DevOps automation.
-- 🛠️ **Recent Projects:** Built **LegisQ Backend**, **Casino DevOps Project**, and custom algorithm implementations.
-- 🎓 **Background:** Computer Science student at Amal Jyothi College of Engineering.
-- 💬 **Ask me about:** JavaScript, TypeScript, Python, C, and DevOps workflows.
+- 💡 **Core Focus:** Full-stack engineering, backend systems, and DevOps pipelines.
+- 🛠️ **Recent Projects:** Built **LegisQ Backend**, **Casino DevOps Project**, and custom algorithm implementations in C.
+- 💬 **Ask me about:** JavaScript, TypeScript, Python, C, Linux, and Cloud/DevOps tooling.
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Languages & Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -42,7 +62,7 @@ current_focus: Building scalable web applications and mastering CI/CD pipelines
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
@@ -50,19 +70,27 @@ current_focus: Building scalable web applications and mastering CI/CD pipelines
 
 ### 📌 Featured Repositories
 
-| Repository | Description | Tech Stack |
+| Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[casino](https://github.com/Albin28/casino)** | DevOps internship final project | `TypeScript` |
-| **[LQ-backend](https://github.com/Albin28/LQ-backend)** | Backend service for LegisQ project | `Node.js` `JavaScript` |
+| **[casino](https://github.com/Albin28/casino)** | DevOps internship final project | `TypeScript` `DevOps` |
+| **[LQ-backend](https://github.com/Albin28/LQ-backend)** | Backend API service for LegisQ | `Node.js` `JavaScript` |
 | **[my-portifolio](https://github.com/Albin28/my-portifolio)** | Personal portfolio for DevOps internship | `JavaScript` `HTML/CSS` |
-| **[miniproject_eventmanagement](https://github.com/Albin28/miniproject_eventmanagement)** | Event management system via circular queue | `C` `Data Structures` |
+| **[miniproject_eventmanagement](https://github.com/Albin28/miniproject_eventmanagement)** | Event management system using Circular Queue | `C` `Data Structures` |
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Albin28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Albin's GitHub Stats" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albin28&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</p>
+
+---
+
+### 📊 Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Albin28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albin28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
