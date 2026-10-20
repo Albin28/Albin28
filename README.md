@@ -22,14 +22,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Albin28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Albin's Trophies" />
-</p>
-
----
-
 ### 🚀 About Me
 
 ```yaml
@@ -41,7 +33,7 @@ education: Computer Science @ Amal Jyothi College of Engineering
 contact: albinjoseph2814@gmail.com
 ```
 
-- 💡 **Core Focus:** Full-stack engineering, backend systems, and DevOps pipelines.
+- 💡 **Core Focus:** Full-stack engineering, backend systems, and DevOps automation.
 - 🛠️ **Recent Projects:** Built **LegisQ Backend**, **Casino DevOps Project**, and custom algorithm implementations in C.
 - 💬 **Ask me about:** JavaScript, TypeScript, Python, C, Linux, and Cloud/DevOps tooling.
 
@@ -70,24 +62,27 @@ contact: albinjoseph2814@gmail.com
 
 ### 📌 Featured Repositories
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[casino](https://github.com/Albin28/casino)** | DevOps internship final project | `TypeScript` `DevOps` |
-| **[LQ-backend](https://github.com/Albin28/LQ-backend)** | Backend API service for LegisQ | `Node.js` `JavaScript` |
-| **[my-portifolio](https://github.com/Albin28/my-portifolio)** | Personal portfolio for DevOps internship | `JavaScript` `HTML/CSS` |
-| **[miniproject_eventmanagement](https://github.com/Albin28/miniproject_eventmanagement)** | Event management system using Circular Queue | `C` `Data Structures` |
-
----
-
-### 📈 Activity Graph
+<p align="center">
+  <a href="https://github.com/Albin28/casino">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Albin28&repo=casino&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/Albin28/my-portifolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Albin28&repo=my-portifolio&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Albin28&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <a href="https://github.com/Albin28/LQ-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Albin28&repo=LQ-backend&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
+  <a href="https://github.com/Albin28/miniproject_eventmanagement">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Albin28&repo=miniproject_eventmanagement&theme=tokyonight&hide_border=true" width="48%" />
+  </a>
 </p>
 
 ---
 
-### 📊 Stats & Streaks
+### 📊 GitHub Stats & Streaks
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Albin28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
@@ -113,3 +108,4 @@ contact: albinjoseph2814@gmail.com
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=38,26,14,2&height=100&section=footer" width="100%"/>
 </p>
+
